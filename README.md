@@ -13,7 +13,7 @@
 
 `git clone https://github.com/ChiChou/etacsufbo.git` 下载项目
 
-`cd eracsufbo` 进入目录
+`cd etacsufbo` 进入目录
 
 `npm i` 安装依赖项目
 
